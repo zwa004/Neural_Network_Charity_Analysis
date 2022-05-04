@@ -1,6 +1,7 @@
 # Neural_Network_Charity_Analysis
 
 ## Overview
+The purpose of this analysis is to determine how to find effective donations for charities based on large amounts of features or variables using neural networks.
 
 ## Results
 
